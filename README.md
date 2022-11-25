@@ -1,5 +1,5 @@
  - 🤪 Hi, I’m zheng  
-‍ - 👨‍💻 I am currently studying at the School of Mechanical and Automotive Engineering, South China University of Technology, and my research direction is planning and control in autonomous driving (Master's Thesis).  
+ - 👨‍💻 I am currently studying at the School of Mechanical and Automotive Engineering, South China University of Technology, and my research direction is planning and control in autonomous driving (Master's Thesis).  
  - 🎶 Immersed in Wu Bai & China Blue's songs.  
 
 <!---
